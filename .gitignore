@@ -2,4 +2,4 @@
 python-envs
 
 # DQN
-dqn/__pycache__
+dqn/__pycache__/
