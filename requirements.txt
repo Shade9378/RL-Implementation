@@ -1,0 +1,12 @@
+ale-py
+gym==0.15.3
+numpy== 1.25.0 #1.23.5
+opencv-python
+gymnasium
+tensorboard
+torch
+torchvision
+pytorch-ignite
+tensorboardX
+tensorflow
+ptan
